@@ -1,2 +1,3 @@
 # my_hunter
-A Basic duck hunt game, done in C with CSFML 
+My very first graphic project.
+A Basic duck hunt game, done in C with CSFML.
